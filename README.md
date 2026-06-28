@@ -6,7 +6,7 @@ This repository contains the Burmese/Myanmar locale files for the official Odoo 
 
 The goal of this project is to develop and maintain Burmese/Myanmar `.po` locale files for Odoo documentation, because Odoo did not support Burmese/Myanmar documentation localization when this work was started.
 
-These files can be used to preview the translated Odoo documentation locally and prepare the translation for future contribution.
+These files can be used to preview the translated Odoo documentation locally.
 
 ## Requirements
 
