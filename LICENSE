@@ -1,21 +1,26 @@
-MIT License
+Creative Commons Attribution-ShareAlike 4.0 International
 
-Copyright (c) 2026 Saw Lwin Oo
+This repository contains Burmese/Myanmar translation locale files for the
+official Odoo documentation.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The original Odoo documentation is copyright Odoo S.A. and contributors.
+The Burmese/Myanmar translation contributions are copyright Saw Lwin Oo and
+other contributors, where applicable.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The original Odoo documentation is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0). Because this
+repository contains adapted/translated documentation material, it is distributed
+under the same license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+License text:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Human-readable summary:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Source material:
+https://github.com/odoo/documentation
+
+Odoo is a trademark of Odoo S.A. This repository is an unofficial translation
+locale package and is not officially endorsed by Odoo S.A. unless accepted into
+the official Odoo documentation or translation workflow.
