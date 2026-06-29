@@ -94,6 +94,18 @@ documentation/
 
 ## 4. Build the Documentation
 
+Create venv and activate:
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+```
+
+Install the Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 Build the Odoo documentation using the Burmese language code:
 
 ```bash
